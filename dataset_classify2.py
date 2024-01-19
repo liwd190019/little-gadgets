@@ -1,6 +1,6 @@
 '''
-randomly choose x images from all folders under the path A, then 
-transfer them to folders under the path B while keeping folders' names
+randomly choose x images from all folders on the path A, then 
+transfer them to folders on the path B while keeping folders' names
 unchanged
 '''
 import os, shutil, random
